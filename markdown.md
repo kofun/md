@@ -42,7 +42,7 @@ hello_world()
 
 これは `code` です
 
-# これは<span style="color: red; ">赤文字</span>です
+これは<span style="color: red; ">赤文字</span>です
 
 - [ ] これからやるタスク
 - [x] 完了したタスク
