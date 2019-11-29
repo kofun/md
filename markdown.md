@@ -12,3 +12,11 @@
 1. cc
 
 [yahoo](https://yahoo.co.jp)
+
+```python
+
+def hello_world():
+    print('Hello world!')
+
+hello_world()
+```
