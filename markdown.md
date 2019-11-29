@@ -20,3 +20,8 @@ def hello_world():
 
 hello_world()
 ```
+
+**The Zen of Python**
+
+> Beautiful
+
