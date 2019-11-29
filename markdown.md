@@ -25,8 +25,8 @@ hello_world()
 
 > Beautiful
 
-|  | th1 | th2 |
-| :----- | :-----: | -----: |
+||th1|th2|
+|:-----|:-----:|-----:|
 |row1| a | aa |
 |row2| b | bb |
 |row2| b | bb |
