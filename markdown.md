@@ -35,15 +35,13 @@ hello_world()
 | ----- | ----- | ----- |
 | 値1   | 値2   | 値3   |
 
-これは **太字** です。
-これは __太字__ です。
-これは *斜体* です。
-これは _斜体_ です。
-これは ~~訂正線~~です。
+これは **太字** です。  
+これは __太字__ です。  
+これは *斜体* です。  
+これは _斜体_ です。  
+これは ~~訂正線~~です。  
 
 これは `code` です
-
-これは<span style="color: red; ">赤文字</span>です
 
 - [ ] これからやるタスク
 - [x] 完了したタスク
@@ -55,14 +53,6 @@ hello_world()
 ---
 -------
 _ _ _
-
-```uml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-```
 
 :+1:
 
